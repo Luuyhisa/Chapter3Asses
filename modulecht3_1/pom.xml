@@ -8,10 +8,10 @@
         <version>2.1.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>cht3</artifactId>
+    <groupId>za.ac.cput.modulecht3_1</groupId>
+    <artifactId>modulecht3_1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cht3</name>
+    <name>modulecht3_1</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -27,6 +27,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
@@ -38,6 +39,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
             <plugin>

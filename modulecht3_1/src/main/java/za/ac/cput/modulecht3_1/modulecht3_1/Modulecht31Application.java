@@ -1,11 +1,13 @@
-package com.example.cht3;
+package za.ac.cput.modulecht3_1.modulecht3_1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Cht3Application {
+public class Modulecht31Application {
+
     public static void main(String[] args) {
-        SpringApplication.run(Cht3Application.class, args);
+        SpringApplication.run(Modulecht31Application.class, args);
     }
+
 }

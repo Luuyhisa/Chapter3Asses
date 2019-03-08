@@ -6,6 +6,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cht3/pom.xml" />
+        <option value="$PROJECT_DIR$/modulecht3_1/pom.xml" />
+        <option value="$PROJECT_DIR$/modulecht3_2/pom.xml" />
+        <option value="$PROJECT_DIR$/modulecht3_3/pom.xml" />
+        <option value="$PROJECT_DIR$/modulecht3_4/pom.xml" />
       </list>
     </option>
   </component>
