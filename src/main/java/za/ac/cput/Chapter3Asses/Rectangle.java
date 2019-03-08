@@ -1,5 +1,4 @@
 package za.ac.cput.Chapter3Asses;
-
 public class Rectangle {
     private int width, length;
     public Rectangle() {
@@ -17,6 +16,4 @@ public class Rectangle {
         int outPut=((width*2) +(length*2));
         return outPut;
     }
-
-
 }

@@ -6,6 +6,7 @@
         Rectangle rect = new Rectangle(5,4);
         int dExpectedArea = 20;
         Rectangle rectE = new Rectangle(5,4);
+        @Ignore
         @Test
         public void area() {
             Assert.assertEquals(dExpectedArea,rect.area());
@@ -23,7 +24,7 @@
             Assert.fail("Failing Test");
         }
         @Rule
-        public Timeout globalTimeout = new Timeout(20);
+        public Timeout globalTimeout = new Timeout(50);
         @Test
         public void timeOutTest(){
             int infi=1;while(infi==1){}}
