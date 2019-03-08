@@ -19,6 +19,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cht3" options="-parameters" />
       <module name="modulecht3_1" options="-parameters" />
+      <module name="modulecht3_2" options="-parameters" />
+      <module name="modulecht3_3" options="-parameters" />
+      <module name="modulecht3_4" options="-parameters" />
     </option>
   </component>
 </project>
