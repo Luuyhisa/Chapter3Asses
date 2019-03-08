@@ -1,5 +1,9 @@
-    package za.ac.cput.Chapter3Asses;
-    import org.junit.*;
+    package za.ac.cput.modulecht3_4.modulecht3_4;
+
+    import org.junit.Assert;
+    import org.junit.Ignore;
+    import org.junit.Rule;
+    import org.junit.Test;
     import org.junit.rules.Timeout;
 
     public class RectangleTest {
